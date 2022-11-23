@@ -1,0 +1,8 @@
+{
+	"version" : "0.1",
+	"friendlyName" : "SBQ Uninstall",
+	"name" : "SBQUninstall",
+	"author" : "Wasabi_Raptor",
+	"description" : "uninstalls anim overrides and SBQ",
+	"includes" : []
+}

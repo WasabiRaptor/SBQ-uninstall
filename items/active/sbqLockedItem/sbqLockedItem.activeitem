@@ -1,0 +1,18 @@
+{
+	"itemName" : "sbqLockedItem",
+	"shortdescription" : "Locked Items",
+	"description" : "Some items can't be used while inside a predator, hold this once you get out to unlock them.",
+	"price" : 1,
+	"maxStack" : 1,
+	"rarity" : "essential",
+	"category" : "mysteriousReward",
+	"twoHanded" : true,
+	"itemTags" : ["tool"],
+	"inventoryIcon" : "/interface/lockicon.png",
+
+	"retainScriptStorageInItem": true,
+	"scripts" : [
+		"sbqLockedItem.lua"
+	],
+	"scriptDelta" : 5
+}
